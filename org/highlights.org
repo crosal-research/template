@@ -1,0 +1,14 @@
+#+options: toc:nil date:nil
+#+attr_latex: :environment compactitem
+- We met politicians of the highest caliber from
+  the government's side of the aisle yesterday in Brasilia.
+- Overall, they agreed the social security reform ought to
+  be tackled as soon as possible, though support in the Lower House is
+  running short at the moment.
+- There were some different views on how much the second charge
+  against President Temer may be an impediment for that.
+- As for the fiscal agenda given by provisional measures and the
+  likes, however, views were more reassuring.
+- As expected, 2018 election is ever more present on their radar
+  screen, and, accordingly, the economic recovery is increasingly
+  present on the political logic.
