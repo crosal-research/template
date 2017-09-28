@@ -1,5 +1,5 @@
 #+SETUPFILE: ./config/setupfile.org
-#+LATEX_HEADER: \newcommand{\newtitle}{\vspace{1.0cm} Visit to Brasilia}
+#+LATEX_HEADER: \newcommand{\newtitle}{\vspace{1.0cm} Bolsonaro \\ More Than Just a Myth}
 #+LATEX_HEADER: \newcommand{\authorname}{Joao Mauricio Rosal \\ \textit{Chief Economist, PhD} \\Vinicius Alves \\ \it Economist} 
 
 #+BEGIN_EXPORT latex
@@ -17,106 +17,80 @@
 
 * Main Points
 #+ATTR_LATEX: :environment compactitem :options [$\diamond$]
-We met yesterday with some politicians of the highest caliber on the
-government's side of the aisle, ranging from the Speaker of the Lower
-House, Mr. Rodrigo Maia, and the Temer's Chief of staff, Eliseu
-Patilha, to the leader of the Government in the Congress, Senator
-Romero Juca. Clearly, one of the best talks Brasilia can offer
-these days.
+*Mr. Bolsonaro is no passing fad*. Mr. Bolsonaro has a well thought
+over plan to keep his candidacy competitive throughout the
+Presidential context. He is aware he will be subjected to intense
+fire, and his weaknesses - as in the case of any other leading
+candidate - will be explored by his opponents. Nonetheless, he doesn't
+want to be such an easy target and, according to his own words, he is
+controlling his exposure to the media and the public at large in order
+to safeguard his position on the polls, that he believes is solid.
 
-We discussed a multitude of topics concerning the political /cum/
-economic agenda. Some highlights looked particularly enticing for us,
-as follow:
+As an example, during our conversation, he stood up a couple at times
+and went to the Lower House' floor in order to vote. He is aware the
+press is on him, and he doesn't want to be dubbed shirker in case he
+miss a single voting session by accident.
 
-- *Second Charge Against President Temer*: All our interlocutors
-  agreed that its bite has been severely undermined by the recent
-  events around Mr. Joesley Batista's plea bargain. This should
-  certainly make the process less traumatic and more expedient
-  compared to the first charge. In particular, this should lower
-  rent-seeking/bargain within the Lower House and thus favoring
-  Mr. Temer down the line.
+Social media will continue to be a key vehicle to communicate with
+sympathizers, who were piling in front of his office at Congress
+during our conversation. His temper and debating skills, however,
+haven't yet been tested and remain as major question marks ahead of
+the presidential context, in our view.
 
-  That said, there were two competing views. On one hand, as confirmed
-  by the press this morning, Mr. Rodrigo Maia understands the charge
-  should take full priority from here on, both at Constitution and
-  Justice Commission (CCJ) and on the floor. According to this logic,
-  only after that, the government should be able to assess its real
-  support on the Lower House in order to tackle other matters.
+*Mr. Bolsonaro is working to be taken as credibly alternative*. He is
+gradually augmenting his exposure to a variety of business groups that
+still reckon him as an outsider. This is not only the case of the
+financial market's participants, but also of industrial and
+agricultural leaderships. In addition, he isn't shying away from
+meeting with foreign investors either, but he seems careful enough to
+mitigate any risks that such exposure may have on his ratings. In sum,
+he plans to ramp up his efforts on this front, but always carefully.
 
-  The other competing view, put forth by Mr. Juca, looked more
-  sanguine to us. Accordingly, the best strategy at this juncture is
-  to let the charge dormant in the House and thus focus on other
-  businesses, after it is through the CCJ. After all, time is against
-  any reform and since it is down to the opposition to prove Temer's
-  guilty, one should just leave them struggling to do anything
-  meaningful with this charge, while the government mind its own
-  businesses.
-  
-- *Social Security Reform*. Overall, our interlocutors made it clear
-  that, as soon as the political environment allows, the reform ought
-  to be pressed on. However, they all agree that the proposal as is
-  today lacks the necessary support in the Lower House.
+*Mr. Bolsonaro's economic agenda is still taking shape, but signals
+indicate it gravitates somewhere on the center-right*. More
+concretely, he believes the State ought to be rationalized, with
+privatizations included. He also understands that the social security
+system calls for some type of reform, albeit through gradual steps in
+order to grant its approval by the Congress. He welcomes the discussion over
+Central Bank and regulatory agency's independence, but acknowledges he
+is unlikely to raise themes such as these during the election process
+due to their political sensitivity.
 
-  That said, our impression is that none of them looks willing to
-  leave the issue dormant. This is, by doing so, the markets may give
-  the government at thumbs down, which could be a real liability for
-  them in 2018.
+More broadly, he visited may topics without getting necessarily too
+deep in many of them. He admits that his ideas are still taking shape,
+but acknowledges the need to discuss matters with field specialties in
+order to sharpen his thoughts, economics included. In one field,
+however, he was more self assured: public safety. He believes it is
+due time to amend the legal code in order to improve the rule of law
+and individuals rights.
 
-  At moment, the official stance is to stand firm by the report of the
-  rapporteur, Mr. Arthur Maia. However, one could spot that in so far
-  as some pillars are kept in place, particularly the minimum
-  requirement age and a transition rule - including civil servants,
-  that would be good enough for them.
+*Mr. Bolsonaro still misses a clear strategy to strike deals with
+the political establishment*. He is aware that, should he be elected
+the next President he will need a strategy to negotiate policies with
+the Congress. In this respect, his always watchful son and Deputy from
+Sao Paulo State, Mr. Eduardo Bolsonaro, was quick to say that the next
+Congress is more likely to have stronger right-wing leanings, and
+should thus be more sympathetic to his father's agenda.
 
-  Be all that as it may, it is worth noting that, as one of our interlocutors have stressed,
-  high ranked members of the Judiciary are already lobbying in favor
-  of excluding civil servants from the reform. Hence, the battle won't
-  be any smoother this time around.
+Mr. Bolsonaro himself believes he can speak directly to political
+groups - not necessarily political parties, such as the Congress'
+religious representatives, and bring them on board. Ourselves, we are
+not totally convinced it can work, since bypassing party's leaderships
+may be disastrous. Perhaps, this is one of his weakest spot if one
+considers what he could deliver, were he chosen the next President of
+the country.
 
-- *Fiscal Agenda*. While everybody seemed wary about the fate of the
-  social security reform, they looked less so with regard to other
-  short-term measures that can safeguard the 2018's primary target. In
-  particular, they look confidence on soon-to-be issued provisional
-  measures on: 1) postponing civil servants wage bills, 2) increasing
-  their pension contributions, and 3) taxing some special funds. At
-  the end of the day, these matters demand only single majority in
-  both Houses, and they are relative comfortable they can rely on
-  that.
+*Net/net*. While Mr. Bolsonaro's rhetoric attracts sympathizers
+farther to the right, his economic ideas (still taking shape, for
+sure) reinforce the thesis that the next Presidential cycle is more
+likely to give continuation to a market friendly agenda than
+otherwise. Nonetheless, should this really be the case, it remains to
+be seen how the next President will strike a deal with the political
+establishment in order to push such an agenda forward, once, in one
+way or another, he/she should face similar challenges on this front as
+President Temer has been facing throughout.
 
-  With regards to the Refis, they all agreed the matter is pretty much
-  settled and it should be approved within the next week or so. The
-  unwinding of the social security tax subsidies (Reoneracao) looked
-  more of a complex matter, however, and, possibly, the discussion
-  over the topic may have to be re-ignited from scratch with another
-  bill sent to Congress.
 
-  In regard to the policy agenda, one of our interlocutors dropped an
-  important date for us to monitor: March 2018, when all Ministers
-  running for public offices in 2018 will have to step
-  down. Therefore, from then on, policies depending on the Congress
-  are likely to be only about small bear issues.
-  
-- *2018 Elections*. Two facts seemed to have increased the confidence
-  that a center-right candidacy may arrive in good shape for the
-  2018's presidential election. For one, Lula's candidacy looks no
-  longer viable to our interlocutors, and, two, the economy is picking
-  up, which could gather further momentum if the social security is
-  approved.
-
-  In addition, they all shared the idea the Mr. Bolsonaro is going to
-  be an important player next year. However, should politicians
-  sponsoring the government right now not screw things up along the
-  way, they may actually score a victory, spite of Mr. Bolsonaro.
-
-  The Doria /versus/ Ackmin debate is certainly not settled in
-  Brasilia. In fact, some of our interlocutors understand that this
-  competition may be detrimental to PSDB, to the extent that it may
-  open room for other parties to launch their own candidates. Others,
-  however, understand that parties within Temer's coalition are likely
-  to stand united around a single candidate already from the outset,
-  say, by March 2018. In order to do so, however, these grand
-  coalition should take whatever candidate is leading the context -
-  Mr. Meirelles included - and go for it.
 
 
 #+BEGIN_EXPORT latex
