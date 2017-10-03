@@ -30,6 +30,12 @@
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ProcessOptions\relax
 
+% Margins
+\geometry{textwidth=17.0cm, left=1.0cm, top=0.6cm, width=17.5cm,
+  headheight=3.2cm, marginparwidth=2.0cm, headsep=1.2cm,
+  footskip=1.0cm, height=25.0cm, bottom=4.0cm, 
+  includeheadfoot=True}
+
 %----------------------------------------------------------------------
 %	New/renew Commands and Global settings
 %----------------------------------------------------------------------
@@ -175,8 +181,4 @@
 
   \rfoot{\footnotesize \vspace{0.5cm}\thepage}
 
-% Margins
-\geometry{textwidth=17.0cm, left=1.0cm, top=0.6cm, width=17.5cm,
-  headheight=3.2cm, marginparwidth=2.0cm, headsep=1.2cm,
-  footskip=1.0cm, height=25.0cm, bottom=4.0cm, 
-  includeheadfoot=True}
+
